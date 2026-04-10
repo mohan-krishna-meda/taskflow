@@ -3,7 +3,7 @@
 > A React.js to-do app that automatically detects task priority from natural language — no manual tagging needed.
 
 ## 🚀 Live Demo
-[**Try it here →**](https://YOUR_USERNAME.github.io/taskflow)
+[**Try it here →**](https://mohan-krishna-meda.github.io/taskflow)
 
 ## ✨ Features
 - **Smart Priority Detection** — keywords like "urgent", "deadline", "ASAP" auto-tag tasks as 🔴 High
